@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=6A40B0&section=header&text=Sandro%20Ram%C3%ADrez&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=20&descAlignY=60" width="100%" alt="Sandro Ramírez, Full Stack and Mobile Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=6A40B0&section=header&text=Sandro%20Ram%C3%ADrez&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20and%20Mobile%20Developer&descSize=20&descAlignY=60" width="100%" alt="Sandro Ramírez, Full Stack and Mobile Developer" />
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Internship, Development department · *May – August 2025*
 
 **Interface**<br />
 <img src="https://skillicons.dev/icons?i=tailwind,figma,bootstrap" alt="Tailwind CSS, Figma, Bootstrap" /><br />
-<sub>Also shadcn/ui, Framer Motion and daisyUI</sub>
+<sub>Also shadcn/ui and Framer Motion</sub>
 
 **Databases**<br />
 <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="PostgreSQL, MySQL, Prisma" />
