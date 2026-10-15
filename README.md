@@ -113,6 +113,7 @@ Internship, Development department · *May – August 2025*
 
 **Role:** Tech lead & backend developer
 
+- Led the technical direction and designed the interfaces
 - Incident reports with photo and map pin, validated by AI and scored for risk
 - QR access for visitors and couriers, scanned by guards at the gate
 - Multi-tenant Express and PostgreSQL backend with real-time updates over Socket.IO
