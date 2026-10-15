@@ -97,30 +97,6 @@ Internship, Development department · *May – August 2025*
 
 `Flutter` `Dart` `Node.js` `Firebase` `Mercado Pago` `Google APIs` · [**antoja.com.mx**](https://antoja.com.mx)
 
-### ArmonyX
-
-> A platform for managing private residential communities in Mexico. Administrators, residents and guards work on the same real-time system instead of WhatsApp groups, paper logs and spreadsheets.
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-home.webp" width="200" alt="ArmonyX resident app home with the active house, incident reports and recent access" /><br /><sub><b>Home</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-map.webp" width="200" alt="ArmonyX interactive community map with the resident's house highlighted" /><br /><sub><b>Community map</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-qr.webp" width="200" alt="ArmonyX visitor QR code with its validity and destination" /><br /><sub><b>QR access</b></sub></td>
-  </tr>
-</table>
-</div>
-
-**Role:** Tech lead & backend developer
-
-- Led the technical direction and designed the interfaces
-- Incident reports with photo and map pin, validated by AI and scored for risk
-- QR access for visitors and couriers, scanned by guards at the gate
-- Multi-tenant Express and PostgreSQL backend with real-time updates over Socket.IO
-- Interactive map of the community built with MapLibre GL
-
-`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO` `MapLibre GL` · [**armony-x.vercel.app**](https://armony-x.vercel.app)
-
 ### CiviX
 
 > A progressive web app that turns citizen reports into territorial intelligence. Every report gets a transparent urban risk index, so municipal teams attend what is most critical first, not what arrived last.
@@ -144,6 +120,30 @@ Internship, Development department · *May – August 2025*
 - Admin heat map and crisis simulator, with real-time updates over Socket.IO and Web Push
 
 `Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Leaflet` `Socket.IO` `PWA`
+
+### ArmonyX
+
+> A platform for managing private residential communities in Mexico. Administrators, residents and guards work on the same real-time system instead of WhatsApp groups, paper logs and spreadsheets.
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-home.webp" width="200" alt="ArmonyX resident app home with the active house, incident reports and recent access" /><br /><sub><b>Home</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-map.webp" width="200" alt="ArmonyX interactive community map with the resident's house highlighted" /><br /><sub><b>Community map</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-qr.webp" width="200" alt="ArmonyX visitor QR code with its validity and destination" /><br /><sub><b>QR access</b></sub></td>
+  </tr>
+</table>
+</div>
+
+**Role:** Tech lead & backend developer
+
+- Led the technical direction and designed the interfaces
+- Incident reports with photo and map pin, validated by AI and scored for risk
+- QR access for visitors and couriers, scanned by guards at the gate
+- Multi-tenant Express and PostgreSQL backend with real-time updates over Socket.IO
+- Interactive map of the community built with MapLibre GL
+
+`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO` `MapLibre GL` · [**armony-x.vercel.app**](https://armony-x.vercel.app)
 
 ### More projects
 
