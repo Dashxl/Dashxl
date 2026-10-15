@@ -25,7 +25,7 @@
 
 ## About
 
-I build web and mobile products end to end with Flutter, Next.js and Node.js, taking features from the database to the screen. Most recently as founder and lead of **Antoja**, a three-app food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit, and as tech lead of **ArmonyX**, a SaaS for private residential communities.
+I build web and mobile products end to end with Flutter, Next.js and Node.js, taking features from the database to the screen. Most recently as founder and lead of **Antoja**, a three-app food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit, and as tech lead of **ArmonyX**, a SaaS for private residential communities. Before that, **CiviX**, a civic-tech platform that turns citizen reports into urban risk intelligence.
 
 | Focus | Core stack | Currently |
 | :--- | :--- | :--- |
@@ -120,6 +120,30 @@ Internship, Development department · *May – August 2025*
 - Interactive map of the community built with MapLibre GL
 
 `Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO` `MapLibre GL` · [**armony-x.vercel.app**](https://armony-x.vercel.app)
+
+### CiviX
+
+> A progressive web app that turns citizen reports into territorial intelligence. Every report gets a transparent urban risk index, so municipal teams attend what is most critical first, not what arrived last.
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/civix/civix-citizen-home.webp" width="200" alt="CiviX citizen app home with the neighborhood risk index and nearby reports" /><br /><sub><b>Neighborhood risk</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/civix/civix-citizen-map.webp" width="200" alt="CiviX risk heat map of Tepic with reports and zone indexes" /><br /><sub><b>Risk heat map</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/civix/civix-citizen-report.webp" width="200" alt="CiviX report confirmation with the automatic risk estimate" /><br /><sub><b>Risk estimate</b></sub></td>
+  </tr>
+</table>
+</div>
+
+**Role:** Tech lead & backend developer
+
+- Accredited to the national ExpoCiencias 2026 in Monterrey after the Nayarit state fair
+- Led the technical direction and designed the interfaces
+- Transparent urban risk index that ranks reports by impact, not by date
+- Duplicate detection that merges nearby reports and lets neighbors add support
+- Admin heat map and crisis simulator, with real-time updates over Socket.IO and Web Push
+
+`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Leaflet` `Socket.IO` `PWA`
 
 ### More projects
 
