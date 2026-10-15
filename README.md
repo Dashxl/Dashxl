@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://dev-frame.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=26&duration=3200&pause=1300&color=6A40B0&center=true&vCenter=true&width=700&height=50&lines=Web+and+mobile+products%2C+built+end+to+end.;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Founder+and+lead+of+Antoja;Open+to+new+opportunities" alt="Web and mobile products, built end to end. Flutter, Next.js, Node.js. Founder and lead of Antoja. Open to new opportunities." />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=26&duration=3200&pause=1300&color=6A40B0&center=true&vCenter=true&width=700&height=50&lines=Web+and+mobile+products%2C+built+end+to+end.;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Founder+and+lead+of+Antoja;Tech+lead+of+ArmonyX;Open+to+new+opportunities" alt="Web and mobile products, built end to end. Flutter, Next.js, Node.js. Founder and lead of Antoja. Tech lead of ArmonyX. Open to new opportunities." />
 </a>
 
 <br />
@@ -25,11 +25,11 @@
 
 ## About
 
-I build web and mobile products end to end with Flutter, Next.js and Node.js, taking features from the database to the screen. Most recently as founder and lead of **Antoja**, a three-app food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit.
+I build web and mobile products end to end with Flutter, Next.js and Node.js, taking features from the database to the screen. Most recently as founder and lead of **Antoja**, a three-app food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit, and as tech lead of **ArmonyX**, a SaaS for private residential communities.
 
 | Focus | Core stack | Currently |
 | :--- | :--- | :--- |
-| Web & mobile products | Flutter · Next.js · Node.js | Building Antoja |
+| Web & mobile products | Flutter · Next.js · Node.js | Building Antoja & ArmonyX |
 
 <br />
 
@@ -57,14 +57,14 @@ Internship, Development department · *May – August 2025*
 <img src="https://skillicons.dev/icons?i=js,ts,dart,php" alt="JavaScript, TypeScript, Dart, PHP" />
 
 **Frameworks**<br />
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,angular,laravel" alt="Flutter, React, Next.js, Node.js, Angular, Laravel" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,angular,laravel" alt="Flutter, React, Next.js, Node.js, Express, Angular, Laravel" />
 
 **Interface**<br />
 <img src="https://skillicons.dev/icons?i=tailwind,figma,bootstrap" alt="Tailwind CSS, Figma, Bootstrap" /><br />
 <sub>Also shadcn/ui, Framer Motion and daisyUI</sub>
 
 **Databases**<br />
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL, MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="PostgreSQL, MySQL, Prisma" />
 
 **Cloud & integrations**<br />
 <img src="https://skillicons.dev/icons?i=vercel,gcp,firebase" alt="Vercel, Google Cloud, Firebase" /><br />
@@ -96,6 +96,29 @@ Internship, Development department · *May – August 2025*
 - Built online payments with Mercado Pago
 
 `Flutter` `Dart` `Node.js` `Firebase` `Mercado Pago` `Google APIs` · [**antoja.com.mx**](https://antoja.com.mx)
+
+### ArmonyX
+
+> A platform for managing private residential communities in Mexico. Administrators, residents and guards work on the same real-time system instead of WhatsApp groups, paper logs and spreadsheets.
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-home.webp" width="200" alt="ArmonyX resident app home with the active house, incident reports and recent access" /><br /><sub><b>Home</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-map.webp" width="200" alt="ArmonyX interactive community map with the resident's house highlighted" /><br /><sub><b>Community map</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-qr.webp" width="200" alt="ArmonyX visitor QR code with its validity and destination" /><br /><sub><b>QR access</b></sub></td>
+  </tr>
+</table>
+</div>
+
+**Role:** Tech lead & backend developer
+
+- Incident reports with photo and map pin, validated by AI and scored for risk
+- QR access for visitors and couriers, scanned by guards at the gate
+- Multi-tenant Express and PostgreSQL backend with real-time updates over Socket.IO
+- Interactive map of the community built with MapLibre GL
+
+`Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO` `MapLibre GL` · [**armony-x.vercel.app**](https://armony-x.vercel.app)
 
 ### More projects
 
