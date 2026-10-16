@@ -11,6 +11,8 @@
 <a href="https://dev-frame.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6A40B0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/dscp-sandro-ramirez/"><img src="https://img.shields.io/badge/LinkedIn-6A40B0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sandro.ramirez.1102@gmail.com"><img src="https://img.shields.io/badge/Email-6A40B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/dash._.xl/"><img src="https://img.shields.io/badge/Instagram-6A40B0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://wa.me/523231025480"><img src="https://img.shields.io/badge/WhatsApp-6A40B0?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <br />
 <br />
@@ -25,7 +27,7 @@
 
 ## About
 
-I build web and mobile products end to end with Flutter, Next.js and Node.js, taking features from the database to the screen. Most recently as founder and lead of **Antoja**, a three-app food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit, and as tech lead of **ArmonyX**, a SaaS for private residential communities. Before that, **CiviX**, a civic-tech platform that turns citizen reports into urban risk intelligence.
+I build web and mobile products end to end with Flutter, Next.js and Node.js, taking features from the database to the screen. Most recently as founder and lead of **Antoja**, a three-app food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit, and as tech lead of **ArmonyX**, a SaaS for private residential communities. Before that, **CiviX**, a civic-tech platform that turns citizen reports into urban risk intelligence, and **Cipher AI**, built for the Gemini 3 Hackathon. My portfolio is available in English and Spanish.
 
 | Focus | Core stack | Currently |
 | :--- | :--- | :--- |
@@ -37,6 +39,13 @@ I build web and mobile products end to end with Flutter, Next.js and Node.js, ta
 
 **Honda Avante** · Tepic, Nayarit
 Internship, Development department · *May – August 2025*
+
+### Education
+
+**Universidad Tecnológica de la Costa**
+
+- Software Development and Management Engineering · *In progress, expected April 2027*
+- TSU in Information Technologies, Multiplatform Software Development · *Completed*
 
 <br />
 
@@ -70,6 +79,17 @@ Internship, Development department · *May – August 2025*
 <img src="https://skillicons.dev/icons?i=vercel,gcp,firebase" alt="Vercel, Google Cloud, Firebase" /><br />
 <sub>Also Mercado Pago and Google APIs</sub>
 
+### Strengths
+
+| | |
+| :--- | :--- |
+| **Leadership** | Led Antoja from the first idea and acted as technical lead on ArmonyX and CiviX. |
+| **Ownership** | Takes a feature from the database to the screen and stays with it until it ships. |
+| **Product mindset** | Starts from the user's problem and designs the interface before writing the code. |
+| **Fast learner** | Moves between Flutter, Next.js, Node.js and AI APIs and becomes productive quickly. |
+| **Teamwork** | Comfortable in a development team, as at Honda Avante, and good at explaining technical decisions. |
+| **Under pressure** | Delivers on tight deadlines: a hackathon build and a state science fair that led to a national stage. |
+
 <br />
 
 ## 03 / Selected work
@@ -79,13 +99,9 @@ Internship, Development department · *May – August 2025*
 > Food delivery platform for Santiago Ixcuintla and Tuxpan, Nayarit, the first service of its kind in both towns. Three Flutter apps (for customers, restaurants and couriers) share one codebase and a Node.js backend.
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/antoja/antoja-customers.webp" width="200" alt="Antoja customer app" /><br /><sub><b>Antoja</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/antoja/antoja-restaurants.webp" width="200" alt="Antoja Negocios restaurant dashboard" /><br /><sub><b>Antoja Negocios</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/antoja/antoja-couriers.webp" width="200" alt="Antoja Repartidor courier app" /><br /><sub><b>Antoja Repartidor</b></sub></td>
-  </tr>
-</table>
+  <img src="assets/work-antoja.webp" width="640" alt="Antoja customer, Antoja Negocios and Antoja Repartidor apps" />
+  <br />
+  <sub>On the <a href="https://dev-frame.vercel.app">portfolio</a> each app is a carousel with all of its screens.</sub>
 </div>
 
 **Role:** Founder & project lead
@@ -102,13 +118,7 @@ Internship, Development department · *May – August 2025*
 > A progressive web app that turns citizen reports into territorial intelligence. Every report gets a transparent urban risk index, so municipal teams attend what is most critical first, not what arrived last.
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/civix/civix-citizen-home.webp" width="200" alt="CiviX citizen app home with the neighborhood risk index and nearby reports" /><br /><sub><b>Neighborhood risk</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/civix/civix-citizen-map.webp" width="200" alt="CiviX risk heat map of Tepic with reports and zone indexes" /><br /><sub><b>Risk heat map</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/civix/civix-citizen-report.webp" width="200" alt="CiviX report confirmation with the automatic risk estimate" /><br /><sub><b>Risk estimate</b></sub></td>
-  </tr>
-</table>
+  <img src="assets/work-civix.webp" width="640" alt="CiviX citizen app: neighborhood risk, risk heat map and risk estimate" />
 </div>
 
 **Role:** Tech lead & backend developer
@@ -126,13 +136,7 @@ Internship, Development department · *May – August 2025*
 > A platform for managing private residential communities in Mexico. Administrators, residents and guards work on the same real-time system instead of WhatsApp groups, paper logs and spreadsheets.
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-home.webp" width="200" alt="ArmonyX resident app home with the active house, incident reports and recent access" /><br /><sub><b>Home</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-map.webp" width="200" alt="ArmonyX interactive community map with the resident's house highlighted" /><br /><sub><b>Community map</b></sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Dashxl/DevFrame/master/public/armonyx/armonyx-resident-qr.webp" width="200" alt="ArmonyX visitor QR code with its validity and destination" /><br /><sub><b>QR access</b></sub></td>
-  </tr>
-</table>
+  <img src="assets/work-armonyx.webp" width="640" alt="ArmonyX resident app: home, community map and QR access" />
 </div>
 
 **Role:** Tech lead & backend developer
@@ -145,11 +149,22 @@ Internship, Development department · *May – August 2025*
 
 `Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Socket.IO` `MapLibre GL` · [**armony-x.vercel.app**](https://armony-x.vercel.app)
 
+### Cipher AI
+
+> Transform legacy code into documented, secured, maintainable software in 30 seconds using Gemini 3's structured reasoning.
+
+<div align="center">
+  <img src="assets/work-cipher-ai.webp" width="640" alt="Cipher AI landing page in a browser window" />
+</div>
+
+**Role:** Developer · Built for the Gemini 3 Hackathon
+
+`Next.js` `TypeScript` `React` `Tailwind` `Google Gemini 3` `Redis` · [**Live site**](https://cipherai-app.vercel.app/) · [**Code**](https://github.com/Dashxl/Cipher-AI)
+
 ### More projects
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| [**Cipher AI**](https://github.com/Dashxl/Cipher-AI) · [live](https://cipherai-app.vercel.app/) | Turns a legacy codebase into documented, secured, maintainable software: architecture map, risk report, generated docs and reviewable patches. | Next.js, TypeScript, Gemini 3, Redis |
 | [**SecureDesk**](https://github.com/Dashxl/SecureDesk) · [live](https://secure-desk-app.vercel.app) | A corporate AI agent that acts on a user's behalf across Slack and Gmail, with credentials in Auth0 Token Vault, approval for sensitive actions and an audit trail. | Next.js, TypeScript, Auth0, AI SDK |
 | [**DevFrame**](https://github.com/Dashxl/DevFrame) · [live](https://dev-frame.vercel.app) | My portfolio: a minimal, accessible site with light and dark themes. | Next.js, Tailwind CSS, Framer Motion |
 | [**Snack Factory**](https://github.com/Dashxl/Snack-Factory) · [live](https://snack-factory.vercel.app) | A phone-first digital menu for a crepe and drinks shop. | React, TypeScript, Vite |
@@ -186,7 +201,7 @@ Internship, Development department · *May – August 2025*
 
 I'm looking for a team where I can build web and mobile products end to end. If you have a role or a project in mind, I'd like to hear about it.
 
-**[sandro.ramirez.1102@gmail.com](mailto:sandro.ramirez.1102@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/dscp-sandro-ramirez/) · [Portfolio](https://dev-frame.vercel.app)
+**[sandro.ramirez.1102@gmail.com](mailto:sandro.ramirez.1102@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/dscp-sandro-ramirez/) · [Instagram](https://www.instagram.com/dash._.xl/) · [WhatsApp](https://wa.me/523231025480) · [Portfolio](https://dev-frame.vercel.app)
 
 <div align="center">
 
